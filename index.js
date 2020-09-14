@@ -6,6 +6,7 @@ function theBeatlesPlay(arrayMusic, arrayInstru){
   }
   return theBand
 }
+<<<<<<< HEAD
 
 function johnLennonFacts(arrayFacts){
   for (var i = 0; i < arrayFacts.length; i++) {
@@ -28,3 +29,5 @@ function iLoveTheBeatles(num){
   } while (incrementVariable() < (15 - num));
   return theBeatles
 }
+=======
+>>>>>>> ab3646a335f0db1b0ba8b4ae34672abdf25cbe74
